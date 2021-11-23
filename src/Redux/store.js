@@ -4,3 +4,5 @@ import { composeWithDevTools } from "redux-devtools-extension";
 const store = createStore(rootReducer, composeWithDevTools())
 
 export default store
+
+//comment 1 added by kaushik
