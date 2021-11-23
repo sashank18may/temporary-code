@@ -40,3 +40,5 @@ const mapStateToProps = (state) => {
 };
 
 export default connect(mapStateToProps)(App);
+
+//comment added by kaushik
